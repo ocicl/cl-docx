@@ -1,0 +1,9 @@
+* cl-docx
+
+a library providing functions to read data from and manipulate data (such as texts or table rows or cells) inside a docx file
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/kagetora66/cl-docx.git             |
+| commit  | 0000000                                                    |
+| systems | cl-docx                                                   |
+|---------+------------------------------------------------------------|
