@@ -4,6 +4,6 @@ a library providing functions to read data from and manipulate data (such as tex
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/kagetora66/cl-docx.git             |
-| commit  | ad2698b                                                    |
+| commit  | 64cc994                                                    |
 | systems | cl-docx                                                   |
 |---------+------------------------------------------------------------|
